@@ -1,7 +1,7 @@
 # PayNow WHMCS
 [WHMCS Web Hosting Billing & Automation Platform](https://www.whmcs.com/) plugin for payments with the [PayNow](https://paynow.co.zw) Zimbabwe payment gateway.
 
-Download it now at [this link](http://sam.co.zw/downloads/paynow-module-for-whmcs/)
+Download it now at [this link](http://sam.co.zw/downloads/paynow-whmcs-module/)
 
 With this module, you will be able to automatically bill your clients with the Paynow payment gateway in less than a minute.
 
