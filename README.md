@@ -9,4 +9,4 @@ The module comes with installation assistance and one year access to support and
 
 See how easy it is to unleash all this power and automation in the installation guide.
 
-Email [ihatehandles@mailhero.io](ihatehandles@mailhero.io)
+Download from the [online store](http://sam.co.zw/downloads/paynow-whmcs-module/)
